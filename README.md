@@ -1,5 +1,5 @@
 <div align="center">
-  <!-- HAREKETLİ YAZI (%100 Çalışan Temiz Link) -->
+  <!-- HAREKETLİ YAZI -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=3000&pause=1000&color=0984E3&center=true&vCenter=true&width=600&lines=Hi,+I'm+Harun+Melih;Full-Stack+Developer;Computer+Science+Student;Welcome+to+my+Profile!" alt="Typing SVG" />
   <br>
   <!-- CANLI PROFİL ZİYARETÇİ SAYACI -->
@@ -20,7 +20,7 @@
 
 <div align="center">
   <h3>⚡ GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=hmkaraks&show_icons=true&theme=transparent&hide_border=true&title_color=0984E3&text_color=7f8c8d&icon_color=0984E3" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hmkaraks&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </div>
 
 ---
@@ -47,7 +47,7 @@
 <div align="center">
   <h3>🔥 Top Project</h3>
   <a href="https://github.com/hmkaraks/ne-pisirsem">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hmkaraks&repo=ne-pisirsem&theme=transparent&hide_border=true&title_color=0984E3&text_color=7f8c8d&icon_color=0984E3" alt="Ne Pisirsem Project Card" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hmkaraks&repo=ne-pisirsem&theme=tokyonight" alt="Ne Pisirsem Project Card" />
   </a>
 </div>
 
@@ -56,6 +56,6 @@
 <div align="center">
   <h3>📫 Let's Connect</h3>
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
