@@ -12,7 +12,7 @@
 
 - 🎓 Studying **Computer Science** at **Karadeniz Technical University (KTU)**.
 - 💼 Completed Software Engineering Internships at **ASKİ Genel Müdürlüğü** and **Phi Software** (Trabzon Teknokent).
-- 🚀 Building modern full-stack web applications primarily with **Java Spring Boot**, **React**, **PostgreSQL**, and **ASP.NET Core**, while also developing powerful desktop applications using **C++** and **Qt** (RESYS, sporsalonu).
+- 🚀 Building modern full-stack web applications primarily with **Java Spring Boot**, **React**, **PostgreSQL**, and **ASP.NET Core**, while also developing powerful desktop applications using **C++** and **Qt** (RESYS).
 - 🧠 Academic focus on data structures, operations research, and optimization algorithms (Simplex, Big M).
 - 💡 Exploring **Python (OpenCV)** for computer vision projects and AI prompt engineering in my free time.
 
