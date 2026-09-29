@@ -3,6 +3,10 @@
 <h3 align="center">Full-Stack Developer | Computer Science Student</h3>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hmkaraks&label=Profile%20Views&color=0077B5&style=flat" alt="Profile Views" />
+</p>
+
+<p align="center">
   A passionate software engineering student dedicated to building modern web technologies and AI-powered systems.
 </p>
 
